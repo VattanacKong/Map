@@ -1,0 +1,33 @@
+{
+    "Khan Chamkar Mon, Phnom Penh, Cambodia": {
+        "location": {
+            "lat": 11.548878,
+            "lng": 104.9213643
+        }
+    },
+    "Khan Tuol Kork, Phnom Penh, Cambodia": {
+        "location": {
+            "lat": 11.561158,
+            "lng": 104.8980058
+        }
+    },
+    "Kaoh Thum, Cambodia": {
+        "location": {
+            "lat": 11.1268071,
+            "lng": 105.0572027
+        }
+    },
+    "Khan Chbar Ampov, Phnom Penh, Cambodia": {
+        "location": {
+            "lat": 11.5062147,
+            "lng": 104.9973028
+        }
+    },
+    "Khan Dangkor, Phnom Penh, Cambodia": {
+        "location": {
+            "lat": 11.479751,
+            "lng": 104.8688126
+        }
+    },
+    "d": "a coord could not be found"
+}
