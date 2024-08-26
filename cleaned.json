@@ -1,0 +1,2924 @@
+{
+    "Mongkol Borei": [
+        "Preah Netr Preah",
+        "Ou Chrov",
+        "Serei Saophoan",
+        "Malai",
+        "Thma Koul",
+        "Bavel",
+        "Aek Phnum",
+        {
+            "Mongkol Borey, Cambodia": {
+                "location": {
+                    "lat": 13.5412137,
+                    "lng": 103.0299331
+                }
+            }
+        }
+    ],
+    "Phnum Srok": [
+        "Preah Netr Preah",
+        "Thma Puok",
+        "Svay Chek",
+        "Kralanh",
+        "Srei Snam",
+        "Banteay Ampil",
+        "Chong Kal",
+        {
+            "Phnom Srok, Cambodia": {
+                "location": {
+                    "lat": 13.7428634,
+                    "lng": 103.3385147
+                }
+            }
+        }
+    ],
+    "Preah Netr Preah": [
+        "Mongkol Borei",
+        "Phnum Srok",
+        "Serei Saophoan",
+        "Svay Chek",
+        "Thma Koul",
+        "Aek Phnum",
+        "Kralanh",
+        {
+            "Preah Netr Preah, Cambodia": {
+                "location": {
+                    "lat": 13.6209301,
+                    "lng": 103.1826862
+                }
+            }
+        }
+    ],
+    "Ou Chrov": [
+        "Mongkol Borei",
+        "Serei Saophoan",
+        "Svay Chek",
+        "Malai",
+        "Paoy Paet",
+        {
+            "Ou Chrov, Cambodia": {
+                "location": {
+                    "lat": 13.6087612,
+                    "lng": 102.7681066
+                }
+            }
+        }
+    ],
+    "Serei Saophoan": [
+        "Mongkol Borei",
+        "Preah Netr Preah",
+        "Ou Chrov",
+        "Svay Chek",
+        {
+            "Sisophon, Cambodia": {
+                "location": {
+                    "lat": 13.5836237,
+                    "lng": 102.9737739
+                }
+            }
+        }
+    ],
+    "Thma Puok": [
+        "Phnum Srok",
+        "Svay Chek",
+        "Banteay Ampil",
+        {
+            "Thma Puok, Cambodia": {
+                "location": {
+                    "lat": 13.9402197,
+                    "lng": 103.0500972
+                }
+            }
+        }
+    ],
+    "Svay Chek": [
+        "Phnum Srok",
+        "Preah Netr Preah",
+        "Ou Chrov",
+        "Serei Saophoan",
+        "Thma Puok",
+        {
+            "Svay Chek, Cambodia": {
+                "location": {
+                    "lat": 13.8031404,
+                    "lng": 102.9579459
+                }
+            }
+        }
+    ],
+    "Malai": [
+        "Mongkol Borei",
+        "Ou Chrov",
+        "Paoy Paet",
+        "Sampov Lun",
+        {
+            "Malai , Cambodia": {
+                "location": {
+                    "lat": 13.56377047680879, 
+                    "lng": 102.3622333555616
+                }
+            }
+        }
+    ],
+    "Paoy Paet": [
+        "Ou Chrov",
+        "Malai",
+        {
+            "Paoy Paet, Krong Poi Pet, Cambodia": {
+                "location": {
+                    "lat": 13.6548992,
+                    "lng": 102.5606557
+                }
+            }
+        }
+    ],
+    "Banan": [
+        "Thma Koul",
+        "Battambang",
+        "Bavel",
+        "Rotonak Mondol",
+        "Sangkae",
+        "Koas Krala",
+        {
+            "Banan, Cambodia": {
+                "location":{
+                    "lat": 12.955029994792108,
+                    "lng": 103.14360815308747
+                }
+            }
+        }
+    ],
+    "Thma Koul": [
+        "Mongkol Borei",
+        "Preah Netr Preah",
+        "Banan",
+        "Battambang",
+        "Bavel",
+        "Aek Phnum",
+        {
+            "Thma Koul, Cambodia": {
+                "location": {
+                    "lat": 13.2665404,
+                    "lng": 103.0875535
+                }
+            }
+        }
+    ],
+    "Battambang": [
+        "Banan",
+        "Thma Koul",
+        "Aek Phnum",
+        "Sangkae",
+        {
+            "Krong Battambang, Cambodia": {
+                "location": {
+                    "lat": 13.09573,
+                    "lng": 103.2022055
+                }
+            }
+        }
+    ],
+    "Bavel": [
+        "Mongkol Borei",
+        "Banan",
+        "Thma Koul",
+        "Rotonak Mondol",
+        "Sampov Lun",
+        "Kamrieng",
+        {
+            "Bavel, Cambodia": {
+                "location": {
+                    "lat": 13.252145153405149, 
+                    "lng": 102.86497514205513
+                }
+            }
+        }
+    ],
+    "Aek Phnum": [
+        "Mongkol Borei",
+        "Preah Netr Preah",
+        "Thma Koul",
+        "Battambang",
+        "Sangkae",
+        "Kralanh",
+        "Puok",
+        {
+            "Aek Phnum, Cambodia": {
+                "location": {
+                    "lat": 13.1600324,
+                    "lng": 103.2346076
+                }
+            }
+        }
+    ],
+    "Moung Ruessei": [
+        "Sangkae",
+        "Koas Krala",
+        "Bakan",
+        {
+            "Moung Ruessei, Cambodia": {
+                "location": {
+                    "lat": 12.7714845,
+                    "lng": 103.4482868
+                }
+            }
+        }
+    ],
+    "Rotonak Mondol": [
+        "Banan",
+        "Bavel",
+        "Samlout",
+        "Kamrieng",
+        "Koas Krala",
+        "Pailin",
+        "Sala Krau",
+        {
+            "Rotanak Mondol, Cambodia": {
+                "location": {
+                    "lat": 12.9002293,
+                    "lng": 102.8514837
+                }
+            }
+        }
+    ],
+    "Sangkae": [
+        "Banan",
+        "Battambang",
+        "Aek Phnum",
+        "Moung Ruessei",
+        "Koas Krala",
+        {
+            "Sangkae, Cambodia": {
+                "location": {
+                    "lat": 13.0807278,
+                    "lng": 103.2403779
+                }
+            }
+        }
+    ],
+    "Samlout": [
+        "Rotonak Mondol",
+        "Koas Krala",
+        "Veal Veaeng",
+        "Pailin",
+        {
+            "Samlout, Cambodia": {
+                "location": {
+                    "lat": 12.6209854,
+                    "lng": 102.8601122
+                }
+            }
+        }
+    ],
+    "Sampov Lun": [
+        "Malai",
+        "Bavel",
+        {
+            "Sampov Lun, Cambodia": {
+                "location": {
+                    "lat": 13.4302578,
+                    "lng": 102.3721623
+                }
+            }
+        }
+    ],
+    "Phnum Proek": [
+        "Kamrieng",
+        {
+            "Phnom Proek, Cambodia": {
+                "location": {
+                    "lat": 13.3157871,
+                    "lng": 102.3650021
+                }
+            }
+        }
+    ],
+    "Kamrieng": [
+        "Bavel",
+        "Rotonak Mondol",
+        "Phnum Proek",
+        "Sala Krau",
+        {
+            "Kamrieng, Cambodia": {
+                "location": {
+                    "lat": 13.0923956,
+                    "lng": 102.446656
+                }
+            }
+        }
+    ],
+    "Koas Krala": [
+        "Banan",
+        "Moung Ruessei",
+        "Rotonak Mondol",
+        "Sangkae",
+        "Samlout",
+        "Rukh Kiri",
+        "Veal Veaeng",
+        {
+            "Koas Krala, Cambodia": {
+                "location": {
+                    "lat": 12.7614042,
+                    "lng": 103.2605763
+                }
+            }
+        }
+    ],
+    "Rukh Kiri": [
+        "Koas Krala",
+        "Bakan",
+        "Veal Veaeng",
+        {
+            "Rukhak Kiri, Cambodia": {
+                "location": {
+                    "lat": 12.6451857,
+                    "lng": 103.3905003
+                }
+            }
+        }
+    ],
+    "Batheay": [
+        "Cheung Prey",
+        "Kang Meas",
+        "Chol Kiri",
+        "Kampong Tralach",
+        "Baray",
+        "Mukh Kampul",
+        "Ponhea Lueu",
+        {
+            "Batheay, Cambodia": {
+                "location": {
+                    "lat": 11.9896148,
+                    "lng": 104.9432659
+                }
+            }
+        }
+    ],
+    "Chamkar Leu": [
+        "Kampong Siem",
+        "Prey Chhor",
+        "Stueng Trang",
+        "Baray",
+        {
+            "Chamkar Leu District, Cambodia": {
+                "location": {
+                    "lat": 12.3143863,
+                    "lng": 105.2750719
+                }
+            }
+        }
+    ],
+    "Cheung Prey": [
+        "Batheay",
+        "Kang Meas",
+        "Prey Chhor",
+        "Baray",
+        {
+            "Cheung Prey, Cambodia": {
+                "location": {
+                    "lat": 12.1557853,
+                    "lng": 105.0791228
+                }
+            }
+        }
+    ],
+    "Kampong Cham": [
+        "Kampong Siem",
+        "Tboung Khmum",
+        {
+            "Krong Kampong Cham, Cambodia": {
+                "location": {
+                    "lat": 11.9924294,
+                    "lng": 105.4645408
+                }
+            }
+        }
+    ],
+    "Kampong Siem": [
+        "Chamkar Leu",
+        "Kampong Cham",
+        "Kang Meas",
+        "Kaoh Soutin",
+        "Prey Chhor",
+        "Stueng Trang",
+        "Krouch Chhmar",
+        "Tboung Khmum",
+        {
+            "Kampong Siem District, Cambodia": {
+                "location": {
+                    "lat": 12.0111145,
+                    "lng": 105.4331673
+                }
+            }
+        }
+    ],
+    "Kang Meas": [
+        "Batheay",
+        "Cheung Prey",
+        "Kampong Siem",
+        "Kaoh Soutin",
+        "Prey Chhor",
+        "Srei Santhor",
+        "Khsach Kandal",
+        "Mukh Kampul",
+        {
+            "Kang Meas District, Cambodia": {
+                "location": {
+                    "lat": 11.9481842,
+                    "lng": 105.2692193
+                }
+            }
+        }
+    ],
+    "Kaoh Soutin": [
+        "Kampong Siem",
+        "Kang Meas",
+        "Srei Santhor",
+        "Sithor Kandal",
+        "Ou Reang Ov",
+        "Tboung Khmum",
+        {
+            "Kaoh Soutin, Cambodia": {
+                "location": {
+                    "lat": 11.8892248,
+                    "lng": 105.4331673
+                }
+            }
+        }
+    ],
+    "Prey Chhor": [
+        "Chamkar Leu",
+        "Cheung Prey",
+        "Kampong Siem",
+        "Kang Meas",
+        "Baray",
+        {
+            "Prey Chhor, Cambodia": {
+                "location": {
+                    "lat": 12.0581363,
+                    "lng": 105.2576399
+                }
+            }
+        }
+    ],
+    "Srei Santhor": [
+        "Kang Meas",
+        "Kaoh Soutin",
+        "Khsach Kandal",
+        "Pea Reang",
+        "Sithor Kandal",
+        {
+            "Srey Santhor, Cambodia": {
+                "location": {
+                    "lat": 11.83375,
+                    "lng": 105.1068925
+                }
+            }
+        }
+    ],
+    "Stueng Trang": [
+        "Chamkar Leu",
+        "Kampong Siem",
+        "Baray",
+        "Santuk",
+        "Prek Prasab",
+        "Krouch Chhmar",
+        {
+            "Stueng Trang District, Cambodia": {
+                "location": {
+                    "lat": 12.2551545,
+                    "lng": 105.5327831
+                }
+            }
+        }
+    ],
+    "Baribour": [
+        "Kampong Leaeng",
+        "Rolea B'ier",
+        "Tuek Phos",
+        "Krakor",
+        {
+            "Baribour District, Cambodia": {
+                "location": {
+                    "lat": 12.4408016,
+                    "lng": 104.4548621
+                }
+            }
+        }
+    ],
+    "Chol Kiri": [
+        "Batheay",
+        "Kampong Chhnang",
+        "Kampong Leaeng",
+        "Kampong Tralach",
+        "Rolea B'ier",
+        "Baray",
+        {
+            "Chol Kiri District, Cambodia": {
+                "location": {
+                    "lat": 12.1529821,
+                    "lng": 104.87757
+                }
+            }
+        }
+    ],
+    "Kampong Chhnang": [
+        "Chol Kiri",
+        "Kampong Leaeng",
+        "Rolea B'ier",
+        {
+            "Krong Kampong Chhnang, Cambodia": {
+                "location": {
+                    "lat": 12.2613926,
+                    "lng": 104.6762738
+                }
+            }
+        }
+    ],
+    "Kampong Leaeng": [
+        "Baribour",
+        "Chol Kiri",
+        "Kampong Chhnang",
+        "Rolea B'ier",
+        "Baray",
+        "Kampong Svay",
+        "Stueng Saen",
+        "Santuk",
+        {
+            "Kampong Leaeng District, Cambodia": {
+                "location": {
+                    "lat": 12.2778776,
+                    "lng": 104.7316772
+                }
+            }
+        }
+    ],
+    "Kampong Tralach": [
+        "Batheay",
+        "Chol Kiri",
+        "Rolea B'ier",
+        "Sameakki Mean Chey",
+        "Tuek Phos",
+        "Odongk",
+        "Ponhea Lueu",
+        {
+            "Kampong Tralach District, Cambodia": {
+                "location": {
+                    "lat": 11.9394336,
+                    "lng": 104.7141792
+                }
+            }
+        }
+    ],
+    "Rolea B'ier": [
+        "Baribour",
+        "Chol Kiri",
+        "Kampong Chhnang",
+        "Kampong Leaeng",
+        "Kampong Tralach",
+        "Tuek Phos",
+        {
+            "Rolea B'ier District, Cambodia": {
+                "location": {
+                    "lat": 12.2036834,
+                    "lng": 104.6616973
+                }
+            }
+        }
+    ],
+    "Sameakki Mean Chey": [
+        "Kampong Tralach",
+        "Tuek Phos",
+        "Odongk",
+        "Thpong",
+        "Ponhea Lueu",
+        {
+            "Sameakki Mean Chey District, Cambodia": {
+                "location": {
+                    "lat": 11.8783259,
+                    "lng": 104.6092333
+                }
+            }
+        }
+    ],
+    "Tuek Phos": [
+        "Baribour",
+        "Kampong Tralach",
+        "Rolea B'ier",
+        "Sameakki Mean Chey",
+        "Aoral",
+        "Thpong",
+        "Krakor",
+        "Phnum Kravanh",
+        {
+            "Tuek Phos, Cambodia": {
+                "location": {
+                    "lat": 12.0494,
+                    "lng": 104.5276589
+                }
+            }
+        }
+    ],
+    "Basedth": [
+        "Kong Pisei",
+        "Phnum Sruoch",
+        "Samraong Tong",
+        "Chum Kiri",
+        "Samraong",
+        "Tram Kak",
+        {
+            "Basedth, Cambodia": {
+                "location": {
+                    "lat": 11.1461364,
+                    "lng": 104.5334842
+                }
+            }
+        }
+    ],
+    "Chbar Mon": [
+        "Samraong Tong",
+        {
+            "Krong Chbar Mon, Cambodia": {
+                "location": {
+                    "lat": 11.4650455,
+                    "lng": 104.5072722
+                }
+            }
+        }
+    ],
+    "Kong Pisei": [
+        "Basedth",
+        "Samraong Tong",
+        "Kandal Stueng",
+        "Bati",
+        "Samraong",
+        {
+            "Kong Pisei, Cambodia": {
+                "location": {
+                    "lat": 11.2959972,
+                    "lng": 104.6267193
+                }
+            }
+        }
+    ],
+    "Aoral": [
+        "Tuek Phos",
+        "Phnum Sruoch",
+        "Samraong Tong",
+        "Thpong",
+        {
+            "Aoral District, Cambodia": {
+                "location": {
+                    "lat": 11.6891077,
+                    "lng": 104.1291758
+                }
+            }
+        }
+    ],
+    "Odongk": [
+        "Kampong Tralach",
+        "Sameakki Mean Chey",
+        "Samraong Tong",
+        "Thpong",
+        "Angk Snuol",
+        "Ponhea Lueu",
+        {
+            "Odongk, Cambodia": {
+                "location": {
+                    "lat": 11.6479569,
+                    "lng": 104.6121475
+                }
+            }
+        }
+    ],
+    "Phnum Sruoch": [
+        "Basedth",
+        "Aoral",
+        "Samraong Tong",
+        "Chhuk",
+        "Chum Kiri",
+        "Srae Ambel",
+        "Kampong Seila",
+        {
+            "Phnom Sruoch District, Cambodia": {
+                "location": {
+                    "lat": 11.3858497,
+                    "lng": 104.3762816
+                }
+            }
+        }
+    ],
+    "Samraong Tong": [
+        "Basedth",
+        "Chbar Mon",
+        "Kong Pisei",
+        "Aoral",
+        "Odongk",
+        "Phnum Sruoch",
+        "Thpong",
+        "Kandal Stueng",
+        "Angk Snuol",
+        {
+            "Samraong Tong, Cambodia": {
+                "location": {
+                    "lat": 11.4079762,
+                    "lng": 104.5422225
+                }
+            }
+        }
+    ],
+    "Thpong": [
+        "Sameakki Mean Chey",
+        "Tuek Phos",
+        "Aoral",
+        "Odongk",
+        "Samraong Tong",
+        {
+            "Thpong District, Cambodia": {
+                "location": {
+                    "lat": 11.7544464,
+                    "lng": 104.4286639
+                }
+            }
+        }
+    ],
+    "Baray": [
+        "Batheay",
+        "Chamkar Leu",
+        "Cheung Prey",
+        "Prey Chhor",
+        "Stueng Trang",
+        "Chol Kiri",
+        "Kampong Leaeng",
+        "Santuk",
+        {
+            "Baray , Cambodia": {
+                "location":{
+                    "lat":12.396070915589279,
+                    "lng": 105.0818025631622
+                }
+            }
+        }
+    ],
+    "Kampong Svay": [
+        "Kampong Leaeng",
+        "Stueng Saen",
+        "Prasat Ballangk",
+        "Prasat Sambour",
+        "Santuk",
+        "Stoung",
+        {
+            "Kampong Svay, Cambodia": {
+                "location": {
+                    "lat": 12.7916946,
+                    "lng": 104.8308695
+                }
+            }
+        }
+    ],
+    "Stueng Saen": [
+        "Kampong Leaeng",
+        "Kampong Svay",
+        "Santuk",
+        {
+            "Stueng Saen, Krong Stueng Saen, Cambodia": {
+                "location": {
+                    "lat": 12.6357506,
+                    "lng": 104.8688126
+                }
+            }
+        }
+    ],
+    "Prasat Ballangk": [
+        "Kampong Svay",
+        "Prasat Sambour",
+        "Sandan",
+        "Stoung",
+        "Rovieng",
+        "Sangkum Thmei",
+        {
+            "Prasat Ballangk, Cambodia": {
+                "location": {
+                    "lat": 12.9532661,
+                    "lng": 104.9418057
+                }
+            }
+        }
+    ],
+    "Prasat Sambour": [
+        "Kampong Svay",
+        "Prasat Ballangk",
+        "Sandan",
+        "Santuk",
+        {
+            "Prasat Sambour District, Cambodia": {
+                "location": {
+                    "lat": 12.8845104,
+                    "lng": 105.0645091
+                }
+            }
+        }
+    ],
+    "Sandan": [
+        "Prasat Ballangk",
+        "Prasat Sambour",
+        "Santuk",
+        "Sambour",
+        "Rovieng",
+        "Siem Bouk",
+        "Thala Barivat",
+        {
+            "Sandan, Cambodia": {
+                "location": {
+                    "lat": 13.1048784,
+                    "lng": 105.2483289
+                }
+            }
+        }
+    ],
+    "Santuk": [
+        "Stueng Trang",
+        "Kampong Leaeng",
+        "Baray",
+        "Kampong Svay",
+        "Stueng Saen",
+        "Prasat Sambour",
+        "Sandan",
+        "Prek Prasab",
+        "Sambour",
+        {
+            "Santuk, Cambodia": {
+                "location": {
+                    "lat": 12.5614005,
+                    "lng": 105.0469743
+                }
+            }
+        }
+    ],
+    "Stoung": [
+        "Kampong Svay",
+        "Prasat Ballangk",
+        "Sangkum Thmei",
+        "Chi Kraeng",
+        {
+            "Stoung, Cambodia": {
+                "location": {
+                    "lat": 12.9411052,
+                    "lng": 104.5684406
+                }
+            }
+        }
+    ],
+    "Angkor Chey": [
+        "Banteay Meas",
+        "Chhuk",
+        "Kiri Vong",
+        "Tram Kak",
+        "Treang",
+        {
+            "Angkor Chey, Cambodia": {
+                "location": {
+                    "lat": 10.776778,
+                    "lng": 104.6616973
+                }
+            }
+        }
+    ],
+    "Banteay Meas": [
+        "Angkor Chey",
+        "Chhuk",
+        "Dang Tong",
+        "Kampong Trach",
+        "Kiri Vong",
+        {
+            "Banteay Meas, Cambodia": {
+                "location": {
+                    "lat": 10.6662675,
+                    "lng": 104.562614
+                }
+            }
+        }
+    ],
+    "Chhuk": [
+        "Phnum Sruoch",
+        "Angkor Chey",
+        "Banteay Meas",
+        "Chum Kiri",
+        "Dang Tong",
+        "Kampong Seila",
+        "Tram Kak",
+        {
+            "Chhuk, Cambodia": {
+                "location": {
+                    "lat": 10.8359733,
+                    "lng": 104.4577732
+                }
+            }
+        }
+    ],
+    "Chum Kiri": [
+        "Basedth",
+        "Phnum Sruoch",
+        "Chhuk",
+        "Tram Kak",
+        {
+            "Chum Kiri, Cambodia": {
+                "location": {
+                    "lat": 10.9256457,
+                    "lng": 104.4228427
+                }
+            }
+        }
+    ],
+    "Dang Tong": [
+        "Banteay Meas",
+        "Chhuk",
+        "Kampong Trach",
+        "Tuek Chhou",
+        {
+            "Dang Tong, Cambodia": {
+                "location": {
+                    "lat": 10.7046815,
+                    "lng": 104.4461288
+                }
+            }
+        }
+    ],
+    "Kampong Trach": [
+        "Banteay Meas",
+        "Dang Tong",
+        {
+            "Kampong Trach, Cambodia": {
+                "location": {
+                    "lat": 10.5569407,
+                    "lng": 104.4679629
+                }
+            }
+        }
+    ],
+    "Tuek Chhou": [
+        "Dang Tong",
+        "Kampot",
+        "Prey Nob",
+        "Kampong Seila",
+        "Kaeb",
+        {
+            "Tuek Chhou, Cambodia": {
+                "location": {
+                    "lat": 10.6103931,
+                    "lng": 104.2308738
+                }
+            }
+        }
+    ],
+    "Kampot": [
+        "Tuek Chhou",
+        {
+            "Krong Kampot, Cambodia": {
+                "location": {
+                    "lat": 10.5942421,
+                    "lng": 104.1640355
+                }
+            }
+        }
+    ],
+    "Kandal Stueng": [
+        "Kong Pisei",
+        "Samraong Tong",
+        "Angk Snuol",
+        "S'ang",
+        "Ta Khmau",
+        "Dangkao",
+        "Pur SenChey",
+        "Bati",
+        {
+            "Kandal Stueng, Cambodia": {
+                "location": {
+                    "lat": 11.4129466,
+                    "lng": 104.8250329
+                }
+            }
+        }
+    ],
+    "Kien Svay": [
+        "Leuk Daek",
+        "Lvea Aem",
+        "S'ang",
+        "Chbar Ampov",
+        "Peam Ro",
+        {
+            "Kien Svay, Cambodia": {
+                "location": {
+                    "lat": 11.5102843,
+                    "lng": 105.0513578
+                }
+            }
+        }
+    ],
+    "Khsach Kandal": [
+        "Kang Meas",
+        "Srei Santhor",
+        "Lvea Aem",
+        "Mukh Kampul",
+        "Chraoy Chongvar",
+        "Pea Reang",
+        {
+            "Khsach Kandal, Cambodia": {
+                "location": {
+                    "lat": 11.7516109,
+                    "lng": 105.0119105
+                }
+            }
+        }
+    ],
+    "Kaoh Thum": [
+        "Leuk Daek",
+        "S'ang",
+        "Angkor Borei",
+        "Prey Kabbas",
+        {
+            "Kaoh Thum, Cambodia": {
+                "location": {
+                    "lat": 11.1268071,
+                    "lng": 105.0572027
+                }
+            }
+        }
+    ],
+    "Leuk Daek": [
+        "Kien Svay",
+        "Kaoh Thum",
+        "S'ang",
+        "Peam Chor",
+        "Peam Ro",
+        {
+            "Leuk Daek, Cambodia": {
+                "location": {
+                    "lat": 11.1771679,
+                    "lng": 105.2282571
+                }
+            }
+        }
+    ],
+    "Lvea Aem": [
+        "Kien Svay",
+        "Khsach Kandal",
+        "Chamkar Mon",
+        "Doun Penh",
+        "Chraoy Chongvar",
+        "Chbar Ampov",
+        "Peam Ro",
+        "Pea Reang",
+        "Pur Rieng",
+        {
+            "Lvea Aem, Cambodia": {
+                "location": {
+                    "lat": 11.5453563,
+                    "lng": 105.0411298
+                }
+            }
+        }
+    ],
+    "Mukh Kampul": [
+        "Batheay",
+        "Kang Meas",
+        "Khsach Kandal",
+        "Ponhea Lueu",
+        "Chraoy Chongvar",
+        "Praek Pnov",
+        {
+            "Mukh Kampul, Cambodia": {
+                "location": {
+                    "lat": 11.7368666,
+                    "lng": 104.9768543
+                }
+            }
+        }
+    ],
+    "Angk Snuol": [
+        "Odongk",
+        "Samraong Tong",
+        "Kandal Stueng",
+        "Ponhea Lueu",
+        "Pur SenChey",
+        "Praek Pnov",
+        {
+            "Angk Snuol, Cambodia": {
+                "location": {
+                    "lat": 11.5083822,
+                    "lng": 104.7156373
+                }
+            }
+        }
+    ],
+    "Ponhea Lueu": [
+        "Batheay",
+        "Kampong Tralach",
+        "Sameakki Mean Chey",
+        "Odongk",
+        "Mukh Kampul",
+        "Angk Snuol",
+        "Praek Pnov",
+        {
+            "Ponhea Leu, Cambodia": {
+                "location": {
+                    "lat": 11.7502991,
+                    "lng": 104.7754307
+                }
+            }
+        }
+    ],
+    "S'ang": [
+        "Kandal Stueng",
+        "Kien Svay",
+        "Kaoh Thum",
+        "Leuk Daek",
+        "Ta Khmau",
+        "Chbar Ampov",
+        "Bati",
+        "Prey Kabbas",
+        {
+            "S'ang, Cambodia": {
+                "location": {
+                    "lat": 11.3594531,
+                    "lng": 105.0060673
+                }
+            }
+        }
+    ],
+    "Ta Khmau": [
+        "Kandal Stueng",
+        "S'ang",
+        "Dangkao",
+        "Mean Chey",
+        "Chbar Ampov",
+        {
+            "Krong Ta Khmau, Cambodia": {
+                "location": {
+                    "lat": 11.4592378,
+                    "lng": 104.9447261
+                }
+            }
+        }
+    ],
+    "Botum Sakor": [
+        "Kiri Sakor",
+        "Kaoh Kong",
+        "Srae Ambel",
+        "Thma Bang",
+        {
+            "Botum Sakor, Cambodia": {
+                "location": {
+                    "lat": 11.1883046,
+                    "lng": 103.4685183
+                }
+            }
+        }
+    ],
+    "Kiri Sakor": [
+        "Botum Sakor",
+        "Kaoh Kong",
+        {
+            "Kiri Sakor, Cambodia": {
+                "location": {
+                    "lat": 10.9432109,
+                    "lng": 103.1005219
+                }
+            }
+        }
+    ],
+    "Kaoh Kong": [
+        "Botum Sakor",
+        "Kiri Sakor",
+        "Mondol Seima",
+        "Thma Bang",
+        {
+            "Krong Khemara Phoumin, Cambodia": {
+                "location": {
+                    "lat": 11.6153795,
+                    "lng": 102.9836882
+                }
+            }
+        }
+    ],
+    "Khemara Phoumin": [
+        "Mondol Seima",
+        {
+            "Smach Mean Chey, Krong Khemara Phoumin, Cambodia": {
+                "location": {
+                    "lat": 11.6028436,
+                    "lng": 103.0241726
+                }
+            }
+        }
+    ],
+    "Mondol Seima": [
+        "Kaoh Kong",
+        "Khemara Phoumin",
+        "Thma Bang",
+        "Veal Veaeng",
+        {
+            "Mondol Seima, Cambodia": {
+                "location": {
+                    "lat": 11.6229587,
+                    "lng": 102.9493104
+                }
+            }
+        }
+    ],
+    "Srae Ambel": [
+        "Phnum Sruoch",
+        "Botum Sakor",
+        "Thma Bang",
+        "Kampong Seila",
+        {
+            "Srae Ambel, Cambodia": {
+                "location": {
+                    "lat": 11.117586,
+                    "lng": 103.7433983
+                }
+            }
+        }
+    ],
+    "Thma Bang": [
+        "Botum Sakor",
+        "Kaoh Kong",
+        "Mondol Seima",
+        "Srae Ambel",
+        "Phnum Kravanh",
+        "Veal Veaeng",
+        {
+            "Thma Bang, Cambodia": {
+                "location": {
+                    "lat": 11.6779092,
+                    "lng": 103.4453969
+                }
+            }
+        }
+    ],
+    "Chhloung": [
+        "Prek Prasab",
+        "Snuol",
+        "Chetr Borei",
+        "Dambae",
+        "Krouch Chhmar",
+        "Memot",
+        {
+            "Chhlong, Cambodia": {
+                "location": {
+                    "lat": 12.2562914,
+                    "lng": 105.9406128
+                }
+            }
+        }
+    ],
+    "Kracheh": [
+        "Prek Prasab",
+        "Chetr Borei",
+        {
+            "Krong Kracheh, Cambodia": {
+                "location": {
+                    "lat": 12.4896877,
+                    "lng": 106.0287512
+                }
+            }
+        }
+    ],
+    "Prek Prasab": [
+        "Stueng Trang",
+        "Santuk",
+        "Chhloung",
+        "Kracheh",
+        "Sambour",
+        "Chetr Borei",
+        "Krouch Chhmar",
+        {
+            "Preaek Prasab District, Cambodia": {
+                "location": {
+                    "lat": 12.3918511,
+                    "lng": 105.993491
+                }
+            }
+        }
+    ],
+    "Sambour": [
+        "Sandan",
+        "Santuk",
+        "Prek Prasab",
+        "Chetr Borei",
+        "Kaev Seima",
+        "Kaoh Nheaek",
+        "Pech Chreada",
+        "Sesan",
+        "Siem Bouk",
+        {
+            "Sambour District, Cambodia": {
+                "location": {
+                    "lat": 12.7744233,
+                    "lng": 105.9670501
+                }
+            }
+        }
+    ],
+    "Snuol": [
+        "Chhloung",
+        "Chetr Borei",
+        "Memot",
+        {
+            "Snuol, Cambodia": {
+                "location": {
+                    "lat": 12.0724709,
+                    "lng": 106.4229199
+                }
+            }
+        }
+    ],
+    "Chetr Borei": [
+        "Chhloung",
+        "Kracheh",
+        "Prek Prasab",
+        "Sambour",
+        "Snuol",
+        "Kaev Seima",
+        {
+            "Chetr Borei, Cambodia": {
+                "location": {
+                    "lat": 12.5759862,
+                    "lng": 106.2522143
+                }
+            }
+        }
+    ],
+    "Kaev Seima": [
+        "Sambour",
+        "Chetr Borei",
+        "Ou Reang",
+        "Pech Chreada",
+        "Saen Monourom",
+        {
+            "Kaev Seima, Cambodia": {
+                "location": {
+                    "lat": 12.1878099,
+                    "lng": 106.8827427
+                }
+            }
+        }
+    ],
+    "Kaoh Nheaek": [
+        "Sambour",
+        "Pech Chreada",
+        "Koun Mom",
+        "Lumphat",
+        "Ou Ya Dav",
+        "Sesan",
+        {
+            "Kaoh Nheaek, Cambodia": {
+                "location": {
+                    "lat": 13.0755436,
+                    "lng": 107.0362272
+                }
+            }
+        }
+    ],
+    "Ou Reang": [
+        "Kaev Seima",
+        "Pech Chreada",
+        "Saen Monourom",
+        {
+            "Ou Reang, Cambodia": {
+                "location": {
+                    "lat": 12.3318411,
+                    "lng": 107.1683922
+                }
+            }
+        }
+    ],
+    "Pech Chreada": [
+        "Sambour",
+        "Kaev Seima",
+        "Kaoh Nheaek",
+        "Ou Reang",
+        "Saen Monourom",
+        {
+            "Pech Chreada, Cambodia": {
+                "location": {
+                    "lat": 12.5363948,
+                    "lng": 107.4292386
+                }
+            }
+        }
+    ],
+    "Saen Monourom": [
+        "Kaev Seima",
+        "Ou Reang",
+        "Pech Chreada",
+        {
+            "Krong Saen Monourom, Cambodia": {
+                "location": {
+                    "lat": 12.4747209,
+                    "lng": 107.1484521
+                }
+            }
+        }
+    ],
+    "Chamkar Mon": [
+        "Lvea Aem",
+        "Doun Penh",
+        "Prampir Meakkakra",
+        "Tuol Kouk",
+        "Chbar Ampov",
+        {
+            "Khan Chamkar Mon, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.548878,
+                    "lng": 104.9213643
+                }
+            }
+        }
+    ],
+    "Doun Penh": [
+        "Lvea Aem",
+        "Chamkar Mon",
+        "Prampir Meakkakra",
+        "Tuol Kouk",
+        "Russey Keo",
+        "Chraoy Chongvar",
+        "Chbar Ampov",
+        {
+            "Khan Doun Penh, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.5680791,
+                    "lng": 104.9242843
+                }
+            }
+        }
+    ],
+    "Prampir Meakkakra": [
+        "Chamkar Mon",
+        "Doun Penh",
+        "Tuol Kouk",
+        {
+            "Prampi Makara, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.5631601,
+                    "lng": 104.9126044
+                }
+            }
+        }
+    ],
+    "Tuol Kouk": [
+        "Chamkar Mon",
+        "Doun Penh",
+        "Prampir Meakkakra",
+        "Mean Chey",
+        "Russey Keo",
+        {
+            "Khan Tuol Kork, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.561158,
+                    "lng": 104.8980058
+                }
+            }
+        }
+    ],
+    "Dangkao": [
+        "Kandal Stueng",
+        "Ta Khmau",
+        "Pur SenChey",
+        {
+            "Khan Dangkor, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.479751,
+                    "lng": 104.8688126
+                }
+            }
+        }
+    ],
+    "Mean Chey": [
+        "Ta Khmau",
+        "Tuol Kouk",
+        "Saensokh",
+        "Pur SenChey",
+        "Chbar Ampov",
+        {
+            "Meanchey, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.5344226,
+                    "lng": 104.8804893
+                }
+            }
+        }
+    ],
+    "Russey Keo": [
+        "Doun Penh",
+        "Tuol Kouk",
+        "Saensokh",
+        "Chraoy Chongvar",
+        "Praek Pnov",
+        {
+            "Russei Keo, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.6164769,
+                    "lng": 104.8980058
+                }
+            }
+        }
+    ],
+    "Saensokh": [
+        "Mean Chey",
+        "Russey Keo",
+        "Praek Pnov",
+        {
+            "Khan Sensok, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.6020167,
+                    "lng": 104.8571368
+                }
+            }
+        }
+    ],
+    "Pur SenChey": [
+        "Kandal Stueng",
+        "Angk Snuol",
+        "Dangkao",
+        "Mean Chey",
+        {
+            "Pur SenChey, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.5392693,
+                    "lng": 104.7871004
+                }
+            }
+        }
+    ],
+    "Chraoy Chongvar": [
+        "Khsach Kandal",
+        "Lvea Aem",
+        "Mukh Kampul",
+        "Doun Penh",
+        "Russey Keo",
+        "Praek Pnov",
+        {
+            "Khan Chroy Changvar, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.6647504,
+                    "lng": 104.9272044
+                }
+            }
+        }
+    ],
+    "Praek Pnov": [
+        "Mukh Kampul",
+        "Angk Snuol",
+        "Ponhea Lueu",
+        "Russey Keo",
+        "Saensokh",
+        "Chraoy Chongvar",
+        {
+            "Praek Pnov, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.6487396,
+                    "lng": 104.8104424
+                }
+            }
+        }
+    ],
+    "Chbar Ampov": [
+        "Kien Svay",
+        "Lvea Aem",
+        "S'ang",
+        "Ta Khmau",
+        "Chamkar Mon",
+        "Doun Penh",
+        "Mean Chey",
+        {
+            "Khan Chbar Ampov, Phnom Penh, Cambodia": {
+                "location": {
+                    "lat": 11.5062147,
+                    "lng": 104.9973028
+                }
+            }
+        }
+    ],
+    "Chey Saen": [
+        "Chhaeb",
+        "Rovieng",
+        "Tbaeng Mean Chey",
+        "Thala Barivat",
+        {
+            "Chey Saen, Cambodia": {
+                "location": {
+                    "lat": 13.64993,
+                    "lng": 105.2604409
+                }
+            }
+        }
+    ],
+    "Chhaeb": [
+        "Chey Saen",
+        "Choam Ksant",
+        "Tbaeng Mean Chey",
+        "Thala Barivat",
+        {
+            "Chhaeb, Cambodia": {
+                "location": {
+                    "lat": 13.766021,
+                    "lng": 105.4053436
+                }
+            }
+        }
+    ],
+    "Choam Ksant": [
+        "Chhaeb",
+        "Kuleaen",
+        "Tbaeng Mean Chey",
+        "Trapeang Prasat",
+        {
+            "Choam Ksant, Cambodia": {
+                "location": {
+                    "lat": 14.2202477,
+                    "lng": 104.9418057
+                }
+            }
+        }
+    ],
+    "Kuleaen": [
+        "Choam Ksant",
+        "Sangkum Thmei",
+        "Tbaeng Mean Chey",
+        "Preah Vihear",
+        "Chi Kraeng",
+        "Svay Leu",
+        "Trapeang Prasat",
+        {
+            "Kuleaen, Cambodia": {
+                "location": {
+                    "lat": 13.8171876,
+                    "lng": 104.6966832
+                }
+            }
+        }
+    ],
+    "Rovieng": [
+        "Prasat Ballangk",
+        "Sandan",
+        "Chey Saen",
+        "Sangkum Thmei",
+        "Tbaeng Mean Chey",
+        "Thala Barivat",
+        {
+            "Rovieng, Cambodia": {
+                "location": {
+                    "lat": 13.3538328,
+                    "lng": 105.1156629
+                }
+            }
+        }
+    ],
+    "Sangkum Thmei": [
+        "Prasat Ballangk",
+        "Stoung",
+        "Kuleaen",
+        "Rovieng",
+        "Tbaeng Mean Chey",
+        "Preah Vihear",
+        "Chi Kraeng",
+        {
+            "Sangkum Thmei, Cambodia": {
+                "location": {
+                    "lat": 13.5788464,
+                    "lng": 104.9067648
+                }
+            }
+        }
+    ],
+    "Tbaeng Mean Chey": [
+        "Chey Saen",
+        "Chhaeb",
+        "Choam Ksant",
+        "Kuleaen",
+        "Rovieng",
+        "Sangkum Thmei",
+        "Preah Vihear",
+        {
+            "Tbaeng Meanchey, Cambodia": {
+                "location": {
+                    "lat": 13.8553958,
+                    "lng": 105.0382076
+                }
+            }
+        }
+    ],
+    "Preah Vihear": [
+        "Kuleaen",
+        "Sangkum Thmei",
+        "Tbaeng Mean Chey",
+        {
+            "Preah Vihear Province, Cambodia": {
+                "location": {
+                    "lat": 14.0085797,
+                    "lng": 104.8454619
+                }
+            }
+        }
+    ],
+    "Ba Phnum": [
+        "Kampong Trabaek",
+        "Me Sang",
+        "Peam Ro",
+        "Preah Sdach",
+        "Svay Antor",
+        {
+            "Ba Phnum, Cambodia": {
+                "location": {
+                    "lat": 11.2559068,
+                    "lng": 105.4009178
+                }
+            }
+        }
+    ],
+    "Kamchay Mear": [
+        "Kanhchriech",
+        "Me Sang",
+        "Svay Antor",
+        "Romeas Haek",
+        "Ponhea Kraek",
+        {
+            "Kamchay Mear, Cambodia": {
+                "location": {
+                    "lat": 11.578148,
+                    "lng": 105.6617813
+                }
+            }
+        }
+    ],
+    "Kampong Trabaek": [
+        "Ba Phnum",
+        "Me Sang",
+        "Preah Sdach",
+        "Svay Chrum",
+        {
+            "Kampong Trabaek, Cambodia": {
+                "location": {
+                    "lat": 11.142049,
+                    "lng": 105.4800382
+                }
+            }
+        }
+    ],
+    "Kanhchriech": [
+        "Kamchay Mear",
+        "Pea Reang",
+        "Sithor Kandal",
+        "Svay Antor",
+        "Ou Reang Ov",
+        "Ponhea Kraek",
+        {
+            "Kanhchriech District, Cambodia": {
+                "location": {
+                    "lat": 11.6885153,
+                    "lng": 105.5620927
+                }
+            }
+        }
+    ],
+    "Me Sang": [
+        "Ba Phnum",
+        "Kamchay Mear",
+        "Kampong Trabaek",
+        "Svay Antor",
+        "Romeas Haek",
+        "Svay Chrum",
+        {
+            "Me Sang, Cambodia": {
+                "location": {
+                    "lat": 11.327518809237882, 
+                    "lng": 105.5474292234536
+                }
+            }
+        }
+    ],
+    "Peam Chor": [
+        "Leuk Daek",
+        "Peam Ro",
+        "Preah Sdach",
+        {
+            "Peam Chor, Cambodia": {
+                "location": {
+                    "lat": 11.1072753,
+                    "lng": 105.2238689
+                }
+            }
+        }
+    ],
+    "Peam Ro": [
+        "Kien Svay",
+        "Leuk Daek",
+        "Lvea Aem",
+        "Ba Phnum",
+        "Peam Chor",
+        "Preah Sdach",
+        "Prey Veng",
+        "Pur Rieng",
+        "Svay Antor",
+        {
+            "Peam Ro, Cambodia": {
+                "location": {
+                    "lat": 11.3175509,
+                    "lng": 105.2809247
+                }
+            }
+        }
+    ],
+    "Pea Reang": [
+        "Srei Santhor",
+        "Khsach Kandal",
+        "Lvea Aem",
+        "Kanhchriech",
+        "Pur Rieng",
+        "Sithor Kandal",
+        "Svay Antor",
+        {
+            "Pea Reang, Cambodia": {
+                "location": {
+                    "lat": 11.6625231,
+                    "lng": 105.2282571
+                }
+            }
+        }
+    ],
+    "Preah Sdach": [
+        "Ba Phnum",
+        "Kampong Trabaek",
+        "Peam Chor",
+        "Peam Ro",
+        {
+            "Preah Sdach, Cambodia": {
+                "location": {
+                    "lat": 11.0975014,
+                    "lng": 105.386309
+                }
+            }
+        }
+    ],
+    "Prey Veng": [
+        "Peam Ro",
+        "Pur Rieng",
+        "Svay Antor",
+        {
+            "Prey Veng, Cambodia": {
+                "location": {
+                    "lat": 11.485114,
+                    "lng": 105.328098
+                }
+            }
+        }
+    ],
+    "Pur Rieng": [
+        "Lvea Aem",
+        "Peam Ro",
+        "Pea Reang",
+        "Prey Veng",
+        "Svay Antor",
+        {
+            "Pur Rieng, Cambodia": {
+                "location": {
+                    "lat": 11.5230199,
+                    "lng": 105.357029
+                }
+            }
+        }
+    ],
+    "Sithor Kandal": [
+        "Kaoh Soutin",
+        "Srei Santhor",
+        "Kanhchriech",
+        "Pea Reang",
+        "Ou Reang Ov",
+        {
+            "Sithor Kandal District, Cambodia": {
+                "location": {
+                    "lat": 11.7703811,
+                    "lng": 105.3804526
+                }
+            }
+        }
+    ],
+    "Svay Antor": [
+        "Ba Phnum",
+        "Kamchay Mear",
+        "Kanhchriech",
+        "Me Sang",
+        "Peam Ro",
+        "Pea Reang",
+        "Prey Veng",
+        "Pur Rieng",
+        {
+            "Svay Antor, Cambodia": {
+                "location": {
+                    "lat": 11.5692151,
+                    "lng": 105.4214515
+                }
+            }
+        }
+    ],
+    "Bakan": [
+        "Moung Ruessei",
+        "Rukh Kiri",
+        "Phnum Kravanh",
+        "Pursat",
+        "Veal Veaeng",
+        {
+            "Bakan, Cambodia": {
+                "location": { 
+                    "lat":12.605034821545608, 
+                    "lng": 103.78136228034765
+                }
+            }
+        }
+    ],
+    "Kandieng": [
+        "Krakor",
+        "Pursat",
+        {
+            "Kandieng, Cambodia": {
+                "location": {
+                    "lat": 12.5835821,
+                    "lng": 103.9564575
+                }
+            }
+        }
+    ],
+    "Krakor": [
+        "Baribour",
+        "Tuek Phos",
+        "Kandieng",
+        "Phnum Kravanh",
+        "Pursat",
+        {
+            "Krakor, Cambodia": {
+                "location": {
+                    "lat": 12.5493579,
+                    "lng": 104.204716
+                }
+            }
+        }
+    ],
+    "Phnum Kravanh": [
+        "Tuek Phos",
+        "Thma Bang",
+        "Bakan",
+        "Krakor",
+        "Pursat",
+        "Veal Veaeng",
+        {
+            "Phnom Kravanh, Cambodia": {
+                "location": {
+                    "lat": 12.3539333,
+                    "lng": 103.7694692
+                }
+            }
+        }
+    ],
+    "Pursat": [
+        "Bakan",
+        "Kandieng",
+        "Krakor",
+        "Phnum Kravanh",
+        {
+            "Krong Pursat, Cambodia": {
+                "location": {
+                    "lat": 12.4651824,
+                    "lng": 103.8911999
+                }
+            }
+        }
+    ],
+    "Veal Veaeng": [
+        "Samlout",
+        "Koas Krala",
+        "Rukh Kiri",
+        "Mondol Seima",
+        "Thma Bang",
+        "Bakan",
+        "Phnum Kravanh",
+        {
+            "Veal Veaeng, Cambodia": {
+                "location": {
+                    "lat": 12.054292,
+                    "lng": 103.2721197
+                }
+            }
+        }
+    ],
+    "Andoung Meas": [
+        "Bar Kaev",
+        "Ou Chum",
+        "Ou Ya Dav",
+        "Ta Veaeng",
+        {
+            "Andoung Meas, Cambodia": {
+                "location": {
+                    "lat": 13.8672865,
+                    "lng": 107.2976732
+                }
+            }
+        }
+    ],
+    "Ban Lung": [
+        "Bar Kaev",
+        "Koun Mom",
+        "Lumphat",
+        "Ou Chum",
+        {
+            "Banlung, Krong Ban Lung, Cambodia": {
+                "location": {
+                    "lat": 13.7375259,
+                    "lng": 106.986264
+                }
+            }
+        }
+    ],
+    "Bar Kaev": [
+        "Andoung Meas",
+        "Ban Lung",
+        "Lumphat",
+        "Ou Chum",
+        "Ou Ya Dav",
+        {
+            "Bar Kaev, Cambodia": {
+                "location": {
+                    "lat": 13.6849337,
+                    "lng": 107.2104935
+                }
+            }
+        }
+    ],
+    "Koun Mom": [
+        "Kaoh Nheaek",
+        "Ban Lung",
+        "Lumphat",
+        "Ou Chum",
+        "Veun Sai",
+        "Sesan",
+        {
+            "Koun Mom, Cambodia": {
+                "location": {
+                    "lat": 13.5762082,
+                    "lng": 106.7676967
+                }
+            }
+        }
+    ],
+    "Lumphat": [
+        "Kaoh Nheaek",
+        "Ban Lung",
+        "Bar Kaev",
+        "Koun Mom",
+        "Ou Ya Dav",
+        {
+            "Lumphat, Cambodia": {
+                "location": {
+                    "lat": 13.4833399,
+                    "lng": 106.9801346
+                }
+            }
+        }
+    ],
+    "Ou Chum": [
+        "Andoung Meas",
+        "Ban Lung",
+        "Bar Kaev",
+        "Koun Mom",
+        "Ta Veaeng",
+        "Veun Sai",
+        {
+            "Ou Chum, Cambodia": {
+                "location": {
+                    "lat": 13.8075945,
+                    "lng": 107.0185123
+                }
+            }
+        }
+    ],
+    "Ou Ya Dav": [
+        "Kaoh Nheaek",
+        "Andoung Meas",
+        "Bar Kaev",
+        "Lumphat",
+        {
+            "Ou Ya Dav, Cambodia": {
+                "location": {
+                    "lat": 13.6696342,
+                    "lng": 107.346448
+                }
+            }
+        }
+    ],
+    "Ta Veaeng": [
+        "Andoung Meas",
+        "Ou Chum",
+        "Veun Sai",
+        {
+            "Ta Veng, Cambodia": {
+                "location": {
+                    "lat": 14.0461206,
+                    "lng": 107.1085767
+                }
+            }
+        }
+    ],
+    "Veun Sai": [
+        "Koun Mom",
+        "Ou Chum",
+        "Ta Veaeng",
+        "Sesan",
+        "Siem Pang",
+        {
+            "Veun Sai, Cambodia": {
+                "location": {
+                    "lat": 14.2610435,
+                    "lng": 106.7942405
+                }
+            }
+        }
+    ],
+    "Angkor Chum": [
+        "Angkor Thum",
+        "Kralanh",
+        "Puok",
+        "Srei Snam",
+        "Varin",
+        {
+            "Angkor Chum, Cambodia": {
+                "location": {
+                    "lat": 13.6862703,
+                    "lng": 103.6449543
+                }
+            }
+        }
+    ],
+    "Angkor Thum": [
+        "Angkor Chum",
+        "Banteay Srei",
+        "Puok",
+        "Siem Reap",
+        "Varin",
+        {
+            "Angkor Thum, Cambodia": {
+                "location": {
+                    "lat": 13.4840408,
+                    "lng": 103.8738031
+                }
+            }
+        }
+    ],
+    "Banteay Srei": [
+        "Angkor Thum",
+        "Prasat Bakong",
+        "Siem Reap",
+        "Soutr Nikom",
+        "Svay Leu",
+        "Varin",
+        {
+            "Banteay Srei, Cambodia": {
+                "location": {
+                    "lat": 13.6031005,
+                    "lng": 103.9666115
+                }
+            }
+        }
+    ],
+    "Chi Kraeng": [
+        "Stoung",
+        "Kuleaen",
+        "Sangkum Thmei",
+        "Soutr Nikom",
+        "Svay Leu",
+        {
+            "Chi Kraeng, Cambodia": {
+                "location": {
+                    "lat": 13.1819761,
+                    "lng": 104.332644
+                }
+            }
+        }
+    ],
+    "Kralanh": [
+        "Phnum Srok",
+        "Preah Netr Preah",
+        "Aek Phnum",
+        "Angkor Chum",
+        "Puok",
+        "Srei Snam",
+        {
+            "Kralanh, Cambodia": {
+                "location": {
+                    "lat": 13.5854814,
+                    "lng": 103.4193903
+                }
+            }
+        }
+    ],
+    "Puok": [
+        "Aek Phnum",
+        "Angkor Chum",
+        "Angkor Thum",
+        "Kralanh",
+        "Siem Reap",
+        {
+            "Puok, Cambodia": {
+                "location": {
+                    "lat": 13.4352943,
+                    "lng": 103.7347091
+                }
+            }
+        }
+    ],
+    "Prasat Bakong": [
+        "Banteay Srei",
+        "Siem Reap",
+        "Soutr Nikom",
+        {
+            "Prasat Bakong, Cambodia": {
+                "location": {
+                    "lat": 13.2028009,
+                    "lng": 103.9608091
+                }
+            }
+        }
+    ],
+    "Siem Reap": [
+        "Angkor Thum",
+        "Banteay Srei",
+        "Puok",
+        "Prasat Bakong",
+        {
+            "Krong Siem Reap, Cambodia": {
+                "location": {
+                    "lat": 13.3632533,
+                    "lng": 103.856403
+                }
+            }
+        }
+    ],
+    "Soutr Nikom": [
+        "Banteay Srei",
+        "Chi Kraeng",
+        "Prasat Bakong",
+        "Svay Leu",
+        {
+            "Sot Nikum, Cambodia": {
+                "location": {
+                    "lat": 13.1712458,
+                    "lng": 104.1233667
+                }
+            }
+        }
+    ],
+    "Srei Snam": [
+        "Phnum Srok",
+        "Angkor Chum",
+        "Kralanh",
+        "Varin",
+        "Chong Kal",
+        {
+            "Srei Snam, Cambodia": {
+                "location": {
+                    "lat": 13.8323486,
+                    "lng": 103.5147735
+                }
+            }
+        }
+    ],
+    "Svay Leu": [
+        "Kuleaen",
+        "Banteay Srei",
+        "Chi Kraeng",
+        "Soutr Nikom",
+        "Varin",
+        "Anlong Veaeng",
+        "Trapeang Prasat",
+        {
+            "Svay Leu, Cambodia": {
+                "location": {
+                    "lat": 13.5532254,
+                    "lng": 104.245408
+                }
+            }
+        }
+    ],
+    "Varin": [
+        "Angkor Chum",
+        "Angkor Thum",
+        "Banteay Srei",
+        "Srei Snam",
+        "Svay Leu",
+        "Anlong Veaeng",
+        "Chong Kal",
+        {
+            "Varin, Cambodia": {
+                "location":{
+                    "lat": 13.842113206502667, 
+                    "lng": 103.78978587314892
+                }
+            }
+        }
+    ],
+    "Preah Sihanouk": [
+        "Prey Nob",
+        "Stueng Hav",
+        {
+            "Preah Sihanouk, Cambodia": {
+                "location": {
+                    "lat": 10.6267867,
+                    "lng": 103.5115545
+                }
+            }
+        }
+    ],
+    "Prey Nob": [
+        "Tuek Chhou",
+        "Preah Sihanouk",
+        "Kampong Seila",
+        {
+            "Prey Nob, Cambodia": {
+                "location": {
+                    "lat": 10.7089175,
+                    "lng": 103.8158299
+                }
+            }
+        }
+    ],
+    "Stueng Hav": [
+        "Preah Sihanouk",
+        "Kampong Seila",
+        {
+            "Stueng Hav District, Cambodia": {
+                "location": {
+                    "lat": 10.7397262,
+                    "lng": 103.6189078
+                }
+            }
+        }
+    ],
+    "Kampong Seila": [
+        "Phnum Sruoch",
+        "Chhuk",
+        "Tuek Chhou",
+        "Srae Ambel",
+        "Prey Nob",
+        "Stueng Hav",
+        {
+            "Kampong Seila, Cambodia": {
+                "location": {
+                    "lat": 11.0911049,
+                    "lng": 103.8969993
+                }
+            }
+        }
+    ],
+    "Sesan": [
+        "Sambour",
+        "Kaoh Nheaek",
+        "Koun Mom",
+        "Veun Sai",
+        "Siem Bouk",
+        "Siem Pang",
+        "Stueng Traeng",
+        {
+            "Sesan, Cambodia": {
+                "location": {
+                    "lat": 13.556764393460886,
+                    "lng": 106.10036692819682
+                }
+            }
+        }
+    ],
+    "Siem Bouk": [
+        "Sandan",
+        "Sambour",
+        "Sesan",
+        "Stueng Traeng",
+        "Thala Barivat",
+        {
+            "Siem Bouk District, Cambodia": {
+                "location": {
+                    "lat": 13.3963935,
+                    "lng": 105.9376756
+                }
+            }
+        }
+    ],
+    "Siem Pang": [
+        "Veun Sai",
+        "Sesan",
+        "Stueng Traeng",
+        {
+            "Siem Pang, Cambodia": {
+                "location": {
+                    "lat": 14.1125484,
+                    "lng": 106.3905338
+                }
+            }
+        }
+    ],
+    "Stueng Traeng": [
+        "Sesan",
+        "Siem Bouk",
+        "Siem Pang",
+        "Thala Barivat",
+        {
+            "Krong Stung Treng, Cambodia": {
+                "location": {
+                    "lat": 13.5069103,
+                    "lng": 105.9676931
+                }
+            }
+        }
+    ],
+    "Thala Barivat": [
+        "Sandan",
+        "Chey Saen",
+        "Chhaeb",
+        "Rovieng",
+        "Siem Bouk",
+        "Stueng Traeng",
+        {
+            "Thala Barivat District, Cambodia": {
+                "location": {
+                    "lat": 13.5525743,
+                    "lng": 105.9494248
+                }
+            }
+        }
+    ],
+    "Chantrea": [
+        "Kampong Rou",
+        "Bavet",
+        {
+            "Chantrea, Cambodia": {
+                "location": {
+                    "lat": 10.98959,
+                    "lng": 106.1286901
+                }
+            }
+        }
+    ],
+    "Kampong Rou": [
+        "Chantrea",
+        "Svay Chrum",
+        "Svay Rieng",
+        "Svay Teab",
+        "Bavet",
+        {
+            "Kampong Rou, Cambodia": {
+                "location": {
+                    "lat": 10.9201903,
+                    "lng": 105.9435501
+                }
+            }
+        }
+    ],
+    "Rumduol": [
+        "Romeas Haek",
+        "Svay Chrum",
+        "Svay Rieng",
+        "Svay Teab",
+        {
+            "Rumduol, Cambodia": {
+                "location": {
+                    "lat": 11.162401,
+                    "lng": 105.8202234
+                }
+            }
+        }
+    ],
+    "Romeas Haek": [
+        "Kamchay Mear",
+        "Me Sang",
+        "Rumduol",
+        "Svay Chrum",
+        {
+            "Romeas Haek, Cambodia": {
+                "location": {
+                    "lat": 11.4124231,
+                    "lng": 105.7952744
+                }
+            }
+        }
+    ],
+    "Svay Chrum": [
+        "Kampong Trabaek",
+        "Me Sang",
+        "Kampong Rou",
+        "Rumduol",
+        "Romeas Haek",
+        "Svay Rieng",
+        {
+            "Svay Chrum, Cambodia": {
+                "location": {
+                    "lat": 11.1194541,
+                    "lng": 105.7122448
+                }
+            }
+        }
+    ],
+    "Svay Rieng": [
+        "Kampong Rou",
+        "Rumduol",
+        "Svay Chrum",
+        "Svay Teab",
+        {
+            "Krong Svay Rieng, Cambodia": {
+                "location": {
+                    "lat": 11.0877866,
+                    "lng": 105.800951
+                }
+            }
+        }
+    ],
+    "Svay Teab": [
+        "Kampong Rou",
+        "Rumduol",
+        "Svay Rieng",
+        "Bavet",
+        {
+            "Svay Teab, Cambodia": {
+                "location": {
+                    "lat": 11.1144529,
+                    "lng": 105.9464874
+                }
+            }
+        }
+    ],
+    "Bavet": [
+        "Chantrea",
+        "Kampong Rou",
+        "Svay Teab",
+        {
+            "Krong Bavet, Cambodia": {
+                "location": {
+                    "lat": 11.0629004,
+                    "lng": 106.137296
+                }
+            }
+        }
+    ],
+    "Angkor Borei": [
+        "Kaoh Thum",
+        "Borei Cholsar",
+        "Prey Kabbas",
+        "Samraong",
+        "Doun Kaev",
+        "Treang",
+        {
+            "Angkor Borei, Cambodia": {
+                "location": {
+                    "lat": 10.9920135,
+                    "lng": 104.9768543
+                }
+            }
+        }
+    ],
+    "Bati": [
+        "Kong Pisei",
+        "Kandal Stueng",
+        "S'ang",
+        "Prey Kabbas",
+        "Samraong",
+        {
+            "Bati, Cambodia": {
+                "location": {
+                    "lat": 11.243118822799014,
+                    "lng": 104.81200108780533
+                }
+            }
+        }
+    ],
+    "Borei Cholsar": [
+        "Angkor Borei",
+        "Kaoh Andaet",
+        "Treang",
+        {
+            "Bourei Cholsar District, Cambodia": {
+                "location": {
+                    "lat": 10.8359421,
+                    "lng": 105.0235976
+                }
+            }
+        }
+    ],
+    "Kiri Vong": [
+        "Angkor Chey",
+        "Banteay Meas",
+        "Kaoh Andaet",
+        "Treang",
+        {
+            "Kiri Vong District, Cambodia": {
+                "location": {
+                    "lat": 10.6376749,
+                    "lng": 104.8746508
+                }
+            }
+        }
+    ],
+    "Kaoh Andaet": [
+        "Borei Cholsar",
+        "Kiri Vong",
+        "Treang",
+        {
+            "Kaoh Andaet, Cambodia": {
+                "location": {
+                    "lat": 10.7986933,
+                    "lng": 104.9447261
+                }
+            }
+        }
+    ],
+    "Prey Kabbas": [
+        "Kaoh Thum",
+        "S'ang",
+        "Angkor Borei",
+        "Bati",
+        "Samraong",
+        {
+            "Prey Kabbas, Cambodia": {
+                "location": {
+                    "lat": 11.0994186,
+                    "lng": 104.9461864
+                }
+            }
+        }
+    ],
+    "Samraong": [
+        "Anlong Veaeng",
+        "Banteay Ampil",
+        "Chong Kal",
+        {
+            "Samraong, Cambodia": {
+                "location": {
+                    "lat": 14.2419164,
+                    "lng": 103.5702011
+                }
+            }
+        }
+    ],
+    "Doun Kaev": [
+        "Angkor Borei",
+        "Samraong",
+        "Tram Kak",
+        "Treang",
+        {
+            "Krong Doun Kaev, Cambodia": {
+                "location": {
+                    "lat": 10.9877057,
+                    "lng": 104.7871004
+                }
+            }
+        }
+    ],
+    "Tram Kak": [
+        "Basedth",
+        "Angkor Chey",
+        "Chhuk",
+        "Chum Kiri",
+        "Samraong",
+        "Doun Kaev",
+        "Treang",
+        {
+            "Tram Kak, Cambodia": {
+                "location": {
+                    "lat": 11.0293244,
+                    "lng": 104.6121475
+                }
+            }
+        }
+    ],
+    "Treang": [
+        "Angkor Chey",
+        "Angkor Borei",
+        "Borei Cholsar",
+        "Kiri Vong",
+        "Kaoh Andaet",
+        "Doun Kaev",
+        "Tram Kak",
+        {
+            "Treang, Cambodia": {
+                "location": {
+                    "lat": 10.9055342,
+                    "lng": 104.7812654
+                }
+            }
+        }
+    ],
+    "Anlong Veaeng": [
+        "Svay Leu",
+        "Varin",
+        "Chong Kal",
+        "Samraong",
+        "Trapeang Prasat",
+        {
+            "Anlong Veng, Cambodia": {
+                "location": {
+                    "lat": 14.2413707,
+                    "lng": 104.0943247
+                }
+            }
+        }
+    ],
+    "Banteay Ampil": [
+        "Phnum Srok",
+        "Thma Puok",
+        "Chong Kal",
+        "Samraong",
+        {
+            "Banteay Ampil, Cambodia": {
+                "location": {
+                    "lat": 14.2406321,
+                    "lng": 103.1221388
+                }
+            }
+        }
+    ],
+    "Chong Kal": [
+        "Phnum Srok",
+        "Srei Snam",
+        "Varin",
+        "Anlong Veaeng",
+        "Banteay Ampil",
+        "Samraong",
+        {
+            "Chong Kal, Cambodia": {
+                "location": {
+                    "lat": 13.9497185,
+                    "lng": 103.5711692
+                }
+            }
+        }
+    ],
+    "Trapeang Prasat": [
+        "Choam Ksant",
+        "Kuleaen",
+        "Svay Leu",
+        "Anlong Veaeng",
+        {
+            "Trapeang Prasat, Cambodia": {
+                "location": {
+                    "lat": 14.1888883,
+                    "lng": 104.3530066
+                }
+            }
+        }
+    ],
+    "Damnak Chang'aeur": [
+        "Kaeb",
+        {
+            "Damnak Chang'aeur District, Cambodia": {
+                "location": {
+                    "lat": 10.5326791,
+                    "lng": 104.3704625
+                }
+            }
+        }
+    ],
+    "Kaeb": [
+        "Tuek Chhou",
+        "Damnak Chang'aeur",
+        {
+            "Kaeb": "coord could not be found"
+        }
+    ],
+    "Pailin": [
+        "Rotonak Mondol",
+        "Samlout",
+        "Sala Krau",
+        {
+            "Pailin Province, Cambodia": {
+                "location": {
+                    "lat": 12.9092962,
+                    "lng": 102.6675575
+                }
+            }
+        }
+    ],
+    "Sala Krau": [
+        "Rotonak Mondol",
+        "Kamrieng",
+        "Pailin",
+        {
+            "Sala Krau, Cambodia": {
+                "location": {
+                    "lat": 12.9411662,
+                    "lng": 102.59292
+                }
+            }
+        }
+    ],
+    "Dambae": [
+        "Chhloung",
+        "Krouch Chhmar",
+        "Memot",
+        "Ponhea Kraek",
+        "Tboung Khmum",
+        {
+            "Dambae, Cambodia": {
+                "location": {
+                    "lat": 11.9306248,
+                    "lng": 105.92299
+                }
+            }
+        }
+    ],
+    "Krouch Chhmar": [
+        "Kampong Siem",
+        "Stueng Trang",
+        "Chhloung",
+        "Prek Prasab",
+        "Dambae",
+        "Tboung Khmum",
+        {
+            "Krouch Chhmar, Cambodia": {
+                "location": {
+                    "lat": 12.2728471,
+                    "lng": 105.6521474
+                }
+            }
+        }
+    ],
+    "Memot": [
+        "Chhloung",
+        "Snuol",
+        "Dambae",
+        "Ponhea Kraek",
+        {
+            "Memot, Cambodia": {
+                "location": {
+                    "lat": 11.8301955,
+                    "lng": 106.1786787
+                }
+            }
+        }
+    ],
+    "Ou Reang Ov": [
+        "Kaoh Soutin",
+        "Kanhchriech",
+        "Sithor Kandal",
+        "Ponhea Kraek",
+        "Tboung Khmum",
+        {
+            "Ou Reang Ov District, Cambodia": {
+                "location": {
+                    "lat": 11.7967745,
+                    "lng": 105.5034785
+                }
+            }
+        }
+    ],
+    "Ponhea Kraek": [
+        "Kamchay Mear",
+        "Kanhchriech",
+        "Dambae",
+        "Memot",
+        "Ou Reang Ov",
+        "Tboung Khmum",
+        {
+            "Ponhea Kraek District, Cambodia": {
+                "location": {
+                    "lat": 11.7977718,
+                    "lng": 105.8789403
+                }
+            }
+        }
+    ],
+    "Suong": [
+        "Tboung Khmum",
+        {
+            "Suong, Krong Suong, Cambodia": {
+                "location": {
+                    "lat": 11.933674,
+                    "lng": 105.6764461
+                }
+            }
+        }
+    ],
+    "Tboung Khmum": [
+        "Kampong Cham",
+        "Kampong Siem",
+        "Kaoh Soutin",
+        "Dambae",
+        "Krouch Chhmar",
+        "Ou Reang Ov",
+        "Ponhea Kraek",
+        "Suong",
+        {
+            "Tboung Khmum, Cambodia": {
+                "location": {
+                    "lat": 11.9213853,
+                    "lng": 105.6002024
+                }
+            }
+        }
+    ]
+}
